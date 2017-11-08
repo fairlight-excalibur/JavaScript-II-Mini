@@ -6,7 +6,7 @@ in your own words. explain the four principle for the "this" keyword below.
 * 3. 
 * 4. 
 *
-* write out a code example of each xplsdsdxanin qssz
+* write out a code example of each
 
 // Principle 1
 
